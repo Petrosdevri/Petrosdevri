@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Petros.
 - 👀 I’m interested in blockchain technology and development.
 - 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on DApps.
+- 💞️ I’m looking to collaborate on future projects.
 - 📫 Contact me on [Twitter](https://twitter.com/CryptoChadV2).
 
 <!---
