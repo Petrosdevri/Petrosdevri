@@ -38,10 +38,10 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 <a href="https://docs.soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Soldiity" /></a>
 
 ### Miscellaneous 🖱
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
 ## Currently Learning 📗
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFE052" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFE052" alt="Python" /></a>
 
 ## Tools 🔨
 <a href="https://brave.com/" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" alt="Brave" /></a>
