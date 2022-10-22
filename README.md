@@ -26,25 +26,36 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 
 
 ## Tech Skills 🚀
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Web Development 🌐
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
+<a href="https://www.w3.org/TR/CSS/#intro" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+
+### Web3 🪙
+<a href="https://docs.soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Soldiity" /></a>
+
+### Miscellaneous 🖱
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
 ## Currently Learning 📗
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFE052)
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFE052" alt="Python" /></a>
 
 ## Tools 🔨
-![Brave](https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://brave.com/" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" alt="Brave" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
 
 ## Contact me 💬
-<!--[![Instagram]("https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F")](https://www.instagram.com/petrosdevri/)-->
+<!--[![Instagram]("https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F")](https://www.instagram.com/petrosdevri/)-->
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/petrosdevri)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Petrosdevri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petros-devrikis-3303a2245/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:petrosdevrikis@proton.me)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19635354/petros-devrikis)
 
 ## Stats 📊
 ![Petros' GitHub stats](https://github-readme-stats.vercel.app/api?username=petrosdevri&show_icons=true&theme=radical)
+
+![Petros' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrosdevri&theme=radical&layout=compact&hide=c%23)
