@@ -33,6 +33,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
 ### Web3 🪙
@@ -40,7 +41,10 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 
 ### Miscellaneous 🖱
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
+<a href="https://microsoft.com/powershell" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
+<a href="https://aka.ms/terminal" target="_blank"><img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" /></a>
 
 ## Currently Learning 📗
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFE052" alt="Python" /></a>
