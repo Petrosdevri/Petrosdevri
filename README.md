@@ -27,7 +27,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 
 ## Tech Skills 🧑🏼‍💻
 
-### Web Development 🌐
+### Web Development Languages 🌐
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
 <a href="https://www.w3.org/TR/CSS/#intro" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
@@ -38,6 +38,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
+<a href="https://stylus-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus" /></a>
 
 ### Web3 🪙
 <a href="https://docs.soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Soldiity" /></a>
@@ -47,6 +48,8 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ### Command Line 🖥️
+<a href="https://chocolatey.org/" target="_blank"><img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white" alt="Chocolatey" /></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
 <a href="https://microsoft.com/powershell" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
 <a href="https://aka.ms/terminal" target="_blank"><img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" /></a>
 
