@@ -79,6 +79,6 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19635354/petros-devrikis)
 
 ## Stats 📊
-![Petros' GitHub stats](https://github-readme-stats.vercel.app/api?username=petrosdevri&show_icons=true&theme=radical)
+![Petros' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=petrosdevri&show_icons=true&theme=radical)
 
-![Petros' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrosdevri&theme=radical&layout=compact&hide=c%23)
+![Petros' Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=petrosdevri&theme=radical&layout=compact&hide=c%23)
