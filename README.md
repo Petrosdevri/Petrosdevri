@@ -35,6 +35,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 
 ### Web Development Frameworks and Preprocessors 🚀
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootsrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+<a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
@@ -59,6 +60,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 ## Currently Learning 📗
 
 ### Languages 📕
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-F18C00.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFE052" alt="Python" /></a>
 
 ## Tools 🔨
