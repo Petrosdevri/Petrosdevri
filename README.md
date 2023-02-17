@@ -75,10 +75,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 ## Contact me 💬
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/petrosdevri)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Petrosdevri)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/petrosdevri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petros-devrikis/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:petrosdevrikis@proton.me)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19635354/petros-devrikis)
 
 ## Stats 📊
 ![Petros' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=petrosdevri&show_icons=true&theme=radical)
