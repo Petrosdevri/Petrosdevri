@@ -40,4 +40,13 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+          
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
 
