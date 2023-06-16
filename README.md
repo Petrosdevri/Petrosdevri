@@ -23,11 +23,6 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 - I have a prowess in financial and political subjects and firmly believe they are dependent on technology. 📈
 - I have recently developed a strong interest in Blockchain and Web3. 💸
 - I am still a learner so more projects will be released soon. 👀
-
-## Stats 📊
-![Petros' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=petrosdevri&show_icons=true&theme=radical)
-
-![Petros' Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=petrosdevri&theme=radical&layout=compact&hide=c%23)
 -->
 
 ![Metrics](/github-metrics.svg)
