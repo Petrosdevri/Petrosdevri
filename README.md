@@ -23,6 +23,7 @@ I am **Petros Devrikis**, a Web developer with a focus on financial applications
 - I have a prowess in financial and political subjects and firmly believe they are dependent on technology. 📈
 - I have recently developed a strong interest in Blockchain and Web3. 💸
 - I am still a learner so more projects will be released soon. 👀
+
 -->
 
 ![Metrics](/github-metrics.svg)
