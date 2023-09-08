@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.152089919213207 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">209</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.267650158061116 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">210</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2847</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.380636604774534 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">98</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.598806366047743 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">99</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1508</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Split Linked List in Parts</div>
-                            <div class="date">6 Sept 2023</div>
+                            <div class="title">Reverse Linked List II</div>
+                            <div class="date">7 Sept 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Copy List with Random Pointer</div>
-                            <div class="date">5 Sept 2023</div>
+                            <div class="title">Split Linked List in Parts</div>
+                            <div class="date">6 Sept 2023</div>
                         </div>
                     </div>
                 </section>
