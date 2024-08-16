@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.68244697202582 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">600</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="60.78358438364587 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">601</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3253</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="95.32151589242054 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">237</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="95.7237163814181 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">238</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/818</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x335</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x336</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x129</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x112</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x103</span></div>
@@ -71,7 +71,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x73</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x58</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x58</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x55</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x56</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x52</span></div>
                     </div>
                 </section>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find K-th Smallest Pair Distance</div>
-                            <div class="date">14 Aug 2024</div>
+                            <div class="title">Lemonade Change</div>
+                            <div class="date">15 Aug 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Combination Sum II</div>
-                            <div class="date">13 Aug 2024</div>
+                            <div class="title">Find K-th Smallest Pair Distance</div>
+                            <div class="date">14 Aug 2024</div>
                         </div>
                     </div>
                 </section>
