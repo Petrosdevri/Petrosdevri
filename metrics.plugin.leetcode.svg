@@ -70,7 +70,7 @@
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x112</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x86</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x75</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x73</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x74</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x70</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x65</span></div>
                     </div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Cost For Tickets</div>
-                            <div class="date">31 Dec 2024</div>
+                            <div class="title">Maximum Score After Splitting a String</div>
+                            <div class="date">1 Jan 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Count Ways To Build Good Strings</div>
-                            <div class="date">30 Dec 2024</div>
+                            <div class="title">Minimum Cost For Tickets</div>
+                            <div class="date">31 Dec 2024</div>
                         </div>
                     </div>
                 </section>
