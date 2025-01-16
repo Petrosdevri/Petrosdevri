@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.49313066354867 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">733</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3421</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.56867329047341 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">734</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3422</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,9 +37,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.86475869809203 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">373</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1782</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.01065619742008 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">374</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1783</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -69,7 +69,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x116</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x112</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x86</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x77</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x78</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x74</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x70</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x66</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find the Prefix Common Array of Two Arrays</div>
-                            <div class="date">14 Jan 2025</div>
+                            <div class="title">Minimize XOR</div>
+                            <div class="date">15 Jan 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Length of String After Operations</div>
-                            <div class="date">13 Jan 2025</div>
+                            <div class="title">Find the Prefix Common Array of Two Arrays</div>
+                            <div class="date">14 Jan 2025</div>
                         </div>
                     </div>
                 </section>
