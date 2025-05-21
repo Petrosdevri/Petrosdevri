@@ -1,6 +1,6 @@
 <!-- <img src='https://user-images.githubusercontent.com/100411628/236674097-fb1ba478-230d-4f80-a71f-effc22519ff9.png' alt='profile-pic' width='1000' /> -->
-# Hi fellow devs, I am Petros! 👋
-<img src='https://github.com/Petrosdevri/Petrosdevri/assets/100411628/0f2eb7a9-9599-44c9-8bcf-1116590c4fae' alt='profile-pic' height='300' />
+# <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='32' /> Hi, I am Petros Devrikis!
+<h3><strong>🌍 International & European Studies Student | 💻 Hobbyist Web Dev | 📊 Data Analysis Enthusiast</strong></h3>
 
 <!--**Petrosdevri/Petrosdevri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,24 +14,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-I am **Petros Devrikis**, a Web developer with a focus on financial applications. 
-
-## About Me 😄
-
-- I am a student of International and European Studies in University of Macedonia, Thessaloniki. 📚
-- I have a prowess in financial and political subjects and firmly believe they are dependent on technology. 📈
-- I have recently developed a strong interest in Blockchain and Web3. 💸
-- I am still a learner so more projects will be released soon. 👀
-
 -->
 
-![Metrics](/github-metrics.svg)
+### 🔭 Current Interests  
+- 🌐 Building web projects with **HTML/CSS, JavaScript, and React**  
+- 📈 Analyzing datasets to uncover trends (especially in **global politics/economics**)  
+- 🤖 Learning about **AI/ML** applications in social sciences
 
-![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
-
-![Languages](https://github.com/Petrosdevri/github-stats-transparent/blob/output/generated/languages.svg)
-
-![LeetCode](/metrics.plugin.leetcode.svg)
+### 🛠️ Tech Stack  
+<div style="display: flex;">
+</div>
 
 ![Overview](https://github.com/Petrosdevri/github-stats-transparent/blob/output/generated/overview.svg)
