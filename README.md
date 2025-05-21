@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📈 Analyzing datasets to uncover trends (especially in **global politics/economics**)  
 - 🤖 Learning about **AI/ML** applications in social sciences
 
-### 🛠️ Tech Stack  
+<!--### 🛠️ Tech Stack  
 <div style="display: flex;">
-</div>
+</div>-->
 
 ![Overview](https://github.com/Petrosdevri/github-stats-transparent/blob/output/generated/overview.svg)
