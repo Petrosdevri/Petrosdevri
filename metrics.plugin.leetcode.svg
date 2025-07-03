@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="80.39988891974451 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">880</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="80.49125242988059 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">881</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3601</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -46,8 +46,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="50.94444444444444 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">131</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="51.333333333333336 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">132</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/846</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -64,10 +64,10 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x501</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x205</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x206</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x180</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x133</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x133</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x132</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x115</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x97</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x90</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find the Original Typed String I</div>
-                            <div class="date">1 Jul 2025</div>
+                            <div class="title">Find the Original Typed String II</div>
+                            <div class="date">2 Jul 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Harmonious Subsequence</div>
-                            <div class="date">30 Jun 2025</div>
+                            <div class="title">Find the Original Typed String I</div>
+                            <div class="date">1 Jul 2025</div>
                         </div>
                     </div>
                 </section>
