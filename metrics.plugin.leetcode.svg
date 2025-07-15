@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="81.06720132743362 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="81.04478849875588 329"/>
                                     <text x="60" y="50" dominant-baseline="central">891</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3616</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3617</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -46,9 +46,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="52.252941176470586 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="52.191539365452414 329"/>
                                     <text x="60" y="50" dominant-baseline="central">135</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/850</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/851</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Matching of Players With Trainers</div>
-                            <div class="date">13 Jul 2025</div>
+                            <div class="title">Convert Binary Number in a Linked List to Integer</div>
+                            <div class="date">14 Jul 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">The Earliest and Latest Rounds Where Players Compete</div>
-                            <div class="date">12 Jul 2025</div>
+                            <div class="title">Maximum Matching of Players With Trainers</div>
+                            <div class="date">13 Jul 2025</div>
                         </div>
                     </div>
                 </section>
