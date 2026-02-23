@@ -19,17 +19,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.7145085803432 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1002</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3846</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.7109090909091 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1003</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3850</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="113.57065803667746 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">320</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="113.92556634304206 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">321</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/927</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.95074626865672 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.82414307004471 329"/>
                                     <text x="60" y="50" dominant-baseline="central">519</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2010</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2013</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="58.99559955995599 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="58.93076923076923 329"/>
                                     <text x="60" y="50" dominant-baseline="central">163</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/909</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/910</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -71,7 +71,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x144</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x110</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x96</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x89</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x90</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x87</span></div>
                     </div>
                 </section>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Prime Number of Set Bits in Binary Representation</div>
-                            <div class="date">21 Feb 2026</div>
+                            <div class="title">Binary Gap</div>
+                            <div class="date">22 Feb 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Special Binary String</div>
-                            <div class="date">20 Feb 2026</div>
+                            <div class="title">Prime Number of Set Bits in Binary Representation</div>
+                            <div class="date">21 Feb 2026</div>
                         </div>
                     </div>
                 </section>
