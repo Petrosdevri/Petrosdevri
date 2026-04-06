@@ -19,17 +19,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="87.58101851851852 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1035</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3888</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="87.57553956834532 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1036</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3892</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="115.41390374331552 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">328</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="115.76577540106952 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">329</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/935</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="86.74077717658633 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="86.61296660117878 329"/>
                                     <text x="60" y="50" dominant-baseline="central">536</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2033</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2036</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.151086956521745 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.08469055374593 329"/>
                                     <text x="60" y="50" dominant-baseline="central">171</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/920</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/921</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -64,7 +64,7 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x609</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x231</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x232</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x215</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x163</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x159</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Decode the Slanted Ciphertext</div>
-                            <div class="date">4 Apr 2026</div>
+                            <div class="title">Robot Return to Origin</div>
+                            <div class="date">5 Apr 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Walls Destroyed by Robots</div>
-                            <div class="date">3 Apr 2026</div>
+                            <div class="title">Decode the Slanted Ciphertext</div>
+                            <div class="date">4 Apr 2026</div>
                         </div>
                     </div>
                 </section>
