@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Check if There is a Valid Path in a Grid</div>
-                            <div class="date">27 Apr 2026</div>
+                            <div class="title">Minimum Operations to Make a Uni-Value Grid</div>
+                            <div class="date">28 Apr 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Detect Cycles in 2D Grid</div>
-                            <div class="date">26 Apr 2026</div>
+                            <div class="title">Check if There is a Valid Path in a Grid</div>
+                            <div class="date">27 Apr 2026</div>
                         </div>
                     </div>
                 </section>
