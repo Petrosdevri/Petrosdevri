@@ -2,6 +2,8 @@
 # <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='32' /> Hi, I am Petros Devrikis!
 <h3><strong>🌍 International & European Studies Student | 💻 Hobbyist Web Dev | 📊 Data Analysis Enthusiast</strong></h3>
 
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 <img src='https://github.com/Petrosdevri/Petrosdevri/blob/main/github-metrics.svg' />
 
 <!--**Petrosdevri/Petrosdevri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
