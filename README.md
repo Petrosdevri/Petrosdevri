@@ -1,6 +1,6 @@
 <!-- <img src='https://user-images.githubusercontent.com/100411628/236674097-fb1ba478-230d-4f80-a71f-effc22519ff9.png' alt='profile-pic' width='1000' /> -->
 # <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='32' /> Hi, I am Petros Devrikis!
-<h3><strong>🌍 International & European Studies Student | 💻 Hobbyist Web Dev | 📊 Data Analysis Enthusiast</strong></h3>
+<h3><strong>🌍 International & European Studies Graduate | 💻 Hobbyist Web Dev | 📊 Data Analysis Enthusiast</strong></h3>
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
