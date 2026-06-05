@@ -67,12 +67,12 @@
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x239</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x223</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x171</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x166</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x167</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x155</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x121</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x107</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x101</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x100</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x100</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
